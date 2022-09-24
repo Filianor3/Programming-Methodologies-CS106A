@@ -1,0 +1,43 @@
+Dimension: (10, 10)
+Wall: (1, 8) south
+Wall: (2, 5) west
+Wall: (2, 5) south
+Wall: (2, 6) west
+Wall: (2, 7) south
+Wall: (2, 8) west
+Wall: (2, 8) south
+Wall: (3, 5) south
+Wall: (3, 7) south
+Wall: (3, 8) south
+Wall: (3, 9) south
+Wall: (4, 1) west
+Wall: (4, 2) west
+Wall: (4, 3) west
+Wall: (4, 4) west
+Wall: (4, 7) south
+Wall: (4, 8) west
+Wall: (5, 7) west
+Wall: (5, 7) south
+Wall: (5, 8) west
+Wall: (5, 8) south
+Wall: (5, 9) west
+Wall: (5, 10) south
+Wall: (6, 10) south
+Wall: (7, 10) south
+Wall: (8, 7) west
+Wall: (8, 7) south
+Wall: (8, 8) west
+Wall: (8, 9) west
+Wall: (9, 7) south
+Wall: (9, 8) west
+Wall: (9, 8) south
+Wall: (9, 9) west
+Wall: (9, 10) west
+Wall: (10, 7) south
+Wall: (10, 8) west
+Wall: (10, 9) west
+Wall: (10, 10) west
+Karel: (1, 1) east
+
+BeeperBag: 0
+Speed: 0.00
